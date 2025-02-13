@@ -1,3 +1,3 @@
-# ÚKOL č. 3
+# ÚKOL č. 5
 
-Do větve `main` zamerguj větev `task_3`.
+Vytvoř novou větev a v ní znovu přidej soubor `hello_world.py` podle zadání 1. úkolu.
